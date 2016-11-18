@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Otavioensa/javascript-course#readme",
   "dependencies": {
-    "asyncawait": "^1.0.6"
+    "asyncawait": "^1.0.6",
+    "redis": "^2.6.3"
   }
 }
